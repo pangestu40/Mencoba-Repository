@@ -1,8 +1,4 @@
 Isi dari testing File1
 - Belajar
-- Repository
-- GitBash
-- Github
-- GitWeb
 - Tambahan Baru
 - Setelah di Edit
